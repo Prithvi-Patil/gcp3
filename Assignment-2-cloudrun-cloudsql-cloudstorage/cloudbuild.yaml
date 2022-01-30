@@ -1,0 +1,18 @@
+steps:
+ - name: gcr.io/cloud-builders/mvn:3.5.0-jdk-8
+   args: ['clean', 'install', '-Dimage=gcr.io/nimble-perigee-337406/employee_app']
+ - name: 'gcr.io/cloud-builders/docker'
+   args: ['build', '-t', 'gcr.io/nimble-perigee-337406/employee_app', '.']
+ - name: 'gcr.io/cloud-builders/docker'
+   args: ['push', 'gcr.io/nimble-perigee-337406/employee_app']
+# - name: gcr.io/cloud-builders/mvn:3.5.0-jdk-8
+#   args: ['clean', 'install', 'jib:build', '-Dimage=gcr.io/nimble-perigee-337406/spring-batch-prithvi_1']
+# - name: 'gcr.io/cloud-builders/gcloud'
+#   args: ['run', 'deploy', 'terrraform-spring-batch', '--image', 'gcr.io/nimble-perigee-337406/spring-batch-prithvi_1', '--region', 'us-central1','--allow-unauthenticated','--platform','managed']
+# - name: 'gcr.io/cloud-builders/gcloud'
+#   args: ['run', 'services','update-traffic','terrraform-spring-batch','--to-latest','--region', 'us-central1']  
+
+serviceAccount: projects/nimble-perigee-337406/serviceAccounts/695105207645-compute@developer.gserviceaccount.com
+options:
+  logging: CLOUD_LOGGING_ONLY 
+  

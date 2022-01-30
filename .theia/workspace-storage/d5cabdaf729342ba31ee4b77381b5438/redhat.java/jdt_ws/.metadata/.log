@@ -1,0 +1,2377 @@
+!SESSION 2022-01-27 11:09:11.109 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.13
+java.vendor=Debian
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/gcpthree3/.theia/workspace-storage/d5cabdaf729342ba31ee4b77381b5438/redhat.java/jdt_ws
+
+This is a continuation of log file /home/gcpthree3/.theia/workspace-storage/d5cabdaf729342ba31ee4b77381b5438/redhat.java/jdt_ws/.metadata/.bak_0.log
+Created Time: 2022-01-27 12:02:01.875
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:01.875
+!MESSAGE begin problem for /EmployeeRepository.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:01.875
+!MESSAGE 0 problems reported for /EmployeeRepository.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:01.886
+!MESSAGE begin problem for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:01.886
+!MESSAGE 0 problems reported for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:01.902
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:01.908
+!MESSAGE begin problem for /JobConfiguration.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:01.908
+!MESSAGE 0 problems reported for /JobConfiguration.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:01.935
+!MESSAGE begin problem for /JobController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:01.935
+!MESSAGE 0 problems reported for /JobController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:01.945
+!MESSAGE begin problem for /EmployeeItemProcessor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:01.945
+!MESSAGE 0 problems reported for /EmployeeItemProcessor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:01.946
+!MESSAGE Validated 8. Took 201 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:02.291
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:02.293
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:02.295
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:02.342
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:03.091
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:03.331
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:04.092
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:04.094
+!MESSAGE >> workspace/executeCommand java.project.list
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:04.095
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:04.097
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:04.098
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:04.101
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:04.237
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:04.511
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:04.515
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:04.797
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:04.798
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:04.802
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:04.808
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:05.012
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:05.012
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:05.019
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:05.037
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:05.172
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:05.172
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:05.232
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:05.241
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:05.253
+!MESSAGE Reconciled 0. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:05.276
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:05.611
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:05.618
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:05.677
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:05.677
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:05.891
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:05.901
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:06.017
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:06.083
+!MESSAGE Reconciled 0. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:06.091
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:06.092
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:06.162
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:06.342
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:06.547
+!MESSAGE begin problem for /SpringBootBatchIntegrationTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:06.547
+!MESSAGE 0 problems reported for /SpringBootBatchIntegrationTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:06.558
+!MESSAGE begin problem for /JobListener.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:06.558
+!MESSAGE 0 problems reported for /JobListener.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:06.584
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:06.584
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:06.592
+!MESSAGE begin problem for /EmployeeRepository.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:06.592
+!MESSAGE 0 problems reported for /EmployeeRepository.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:06.601
+!MESSAGE begin problem for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:06.601
+!MESSAGE 0 problems reported for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:06.623
+!MESSAGE begin problem for /JobConfiguration.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:06.623
+!MESSAGE 0 problems reported for /JobConfiguration.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:06.632
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:06.636
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:06.657
+!MESSAGE begin problem for /JobController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:06.657
+!MESSAGE 0 problems reported for /JobController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:06.663
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:06.666
+!MESSAGE begin problem for /EmployeeItemProcessor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:06.666
+!MESSAGE 0 problems reported for /EmployeeItemProcessor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:06.667
+!MESSAGE Validated 8. Took 183 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:07.011
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:07.022
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:07.271
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:07.274
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:07.343
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:07.511
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:07.514
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:07.612
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:07.882
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:08.077
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:08.077
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:08.283
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:08.351
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:08.471
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:08.472
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:08.533
+!MESSAGE Reconciled 0. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:08.563
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:08.783
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:08.784
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:08.991
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:09.051
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:09.190
+!MESSAGE Reconciled 0. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:09.231
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:09.232
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:09.287
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:09.533
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:09.653
+!MESSAGE begin problem for /SpringBootBatchIntegrationTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:09.653
+!MESSAGE 0 problems reported for /SpringBootBatchIntegrationTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:09.663
+!MESSAGE begin problem for /JobListener.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:09.663
+!MESSAGE 0 problems reported for /JobListener.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:09.689
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:09.689
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:09.697
+!MESSAGE begin problem for /EmployeeRepository.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:09.697
+!MESSAGE 0 problems reported for /EmployeeRepository.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:09.738
+!MESSAGE begin problem for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:09.738
+!MESSAGE 0 problems reported for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:09.756
+!MESSAGE begin problem for /JobConfiguration.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:09.756
+!MESSAGE 0 problems reported for /JobConfiguration.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:09.767
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:09.783
+!MESSAGE begin problem for /JobController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:09.783
+!MESSAGE 0 problems reported for /JobController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:09.792
+!MESSAGE begin problem for /EmployeeItemProcessor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:09.792
+!MESSAGE 0 problems reported for /EmployeeItemProcessor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:09.792
+!MESSAGE Validated 8. Took 201 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:10.122
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:10.251
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:10.257
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:10.512
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:10.538
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:10.932
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:11.387
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:11.388
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:11.551
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:11.592
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:11.751
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:11.752
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:11.833
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:11.845
+!MESSAGE Reconciled 0. Took 7 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:12.310
+!MESSAGE begin problem for /SpringBootBatchIntegrationTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:12.311
+!MESSAGE 0 problems reported for /SpringBootBatchIntegrationTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:12.322
+!MESSAGE begin problem for /JobListener.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:12.322
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:12.323
+!MESSAGE 0 problems reported for /JobListener.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:12.326
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:12.351
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:12.351
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:12.359
+!MESSAGE begin problem for /EmployeeRepository.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:12.359
+!MESSAGE 0 problems reported for /EmployeeRepository.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:12.368
+!MESSAGE begin problem for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:12.368
+!MESSAGE 0 problems reported for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:12.383
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:12.395
+!MESSAGE begin problem for /JobConfiguration.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:12.396
+!MESSAGE 0 problems reported for /JobConfiguration.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:12.427
+!MESSAGE begin problem for /JobController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:12.427
+!MESSAGE 0 problems reported for /JobController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:12.436
+!MESSAGE begin problem for /EmployeeItemProcessor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:12.436
+!MESSAGE 0 problems reported for /EmployeeItemProcessor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:12.437
+!MESSAGE Validated 8. Took 191 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:12.451
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:12.781
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:12.873
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:13.052
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:13.262
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:13.263
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:13.461
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:13.491
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:13.651
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:13.652
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:13.685
+!MESSAGE Reconciled 0. Took 22 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:13.723
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:14.148
+!MESSAGE begin problem for /SpringBootBatchIntegrationTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:14.148
+!MESSAGE 0 problems reported for /SpringBootBatchIntegrationTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:14.158
+!MESSAGE begin problem for /JobListener.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:14.158
+!MESSAGE 0 problems reported for /JobListener.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:14.184
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:14.184
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:14.192
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:14.193
+!MESSAGE begin problem for /EmployeeRepository.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:14.194
+!MESSAGE 0 problems reported for /EmployeeRepository.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:14.204
+!MESSAGE begin problem for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:14.204
+!MESSAGE 0 problems reported for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:14.223
+!MESSAGE begin problem for /JobConfiguration.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:14.223
+!MESSAGE 0 problems reported for /JobConfiguration.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:14.245
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:14.247
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:14.250
+!MESSAGE begin problem for /JobController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:14.250
+!MESSAGE 0 problems reported for /JobController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:14.262
+!MESSAGE begin problem for /EmployeeItemProcessor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:14.263
+!MESSAGE 0 problems reported for /EmployeeItemProcessor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:14.263
+!MESSAGE Validated 8. Took 177 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:14.512
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:14.611
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:14.618
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:14.867
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:14.947
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:14.948
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:15.141
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:15.212
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:15.354
+!MESSAGE Reconciled 0. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:15.373
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:15.373
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:15.442
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:15.866
+!MESSAGE begin problem for /SpringBootBatchIntegrationTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:15.866
+!MESSAGE 0 problems reported for /SpringBootBatchIntegrationTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:15.876
+!MESSAGE begin problem for /JobListener.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:15.876
+!MESSAGE 0 problems reported for /JobListener.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:15.900
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:15.900
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:15.908
+!MESSAGE begin problem for /EmployeeRepository.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:15.908
+!MESSAGE 0 problems reported for /EmployeeRepository.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:15.917
+!MESSAGE begin problem for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:15.917
+!MESSAGE 0 problems reported for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:15.937
+!MESSAGE begin problem for /JobConfiguration.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:15.937
+!MESSAGE 0 problems reported for /JobConfiguration.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:15.952
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:15.964
+!MESSAGE begin problem for /JobController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:15.964
+!MESSAGE 0 problems reported for /JobController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:15.973
+!MESSAGE begin problem for /EmployeeItemProcessor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:15.973
+!MESSAGE 0 problems reported for /EmployeeItemProcessor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:15.973
+!MESSAGE Validated 8. Took 168 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:16.392
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:16.559
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:18.052
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:18.109
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:18.162
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:18.308
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:18.310
+!MESSAGE >> workspace/executeCommand java.project.list
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:18.311
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:18.313
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:18.314
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:18.317
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:18.532
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:18.952
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:18.953
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:19.131
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:19.182
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:19.352
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:19.353
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:19.359
+!MESSAGE Reconciled 0. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:19.432
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:19.885
+!MESSAGE begin problem for /SpringBootBatchIntegrationTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:19.885
+!MESSAGE 0 problems reported for /SpringBootBatchIntegrationTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:19.895
+!MESSAGE begin problem for /JobListener.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:19.895
+!MESSAGE 0 problems reported for /JobListener.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:19.912
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:19.917
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:19.921
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:19.921
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:19.934
+!MESSAGE begin problem for /EmployeeRepository.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:19.934
+!MESSAGE 0 problems reported for /EmployeeRepository.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:19.946
+!MESSAGE begin problem for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:19.946
+!MESSAGE 0 problems reported for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:19.974
+!MESSAGE begin problem for /JobConfiguration.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:19.974
+!MESSAGE 0 problems reported for /JobConfiguration.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:19.979
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:20.014
+!MESSAGE begin problem for /JobController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:20.014
+!MESSAGE 0 problems reported for /JobController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:20.026
+!MESSAGE begin problem for /EmployeeItemProcessor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:20.026
+!MESSAGE 0 problems reported for /EmployeeItemProcessor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:20.026
+!MESSAGE Validated 8. Took 217 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:20.431
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:20.493
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:20.681
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:20.736
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:21.111
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:21.166
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:21.287
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:21.531
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:22.243
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:22.245
+!MESSAGE >> workspace/executeCommand java.project.list
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:22.247
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:22.248
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:22.249
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:22.252
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:22.564
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:22.971
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:23.292
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:23.341
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:23.677
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:23.679
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:23.681
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:23.716
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:23.842
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:23.891
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:23.902
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:24.062
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:24.062
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:24.133
+!MESSAGE Reconciled 0. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:24.153
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:24.596
+!MESSAGE begin problem for /SpringBootBatchIntegrationTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:24.596
+!MESSAGE 0 problems reported for /SpringBootBatchIntegrationTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:24.604
+!MESSAGE begin problem for /JobListener.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:24.605
+!MESSAGE 0 problems reported for /JobListener.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:24.628
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:24.629
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:24.803
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:24.872
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:24.882
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:25.030
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:25.031
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:25.037
+!MESSAGE Reconciled 0. Took 8 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:25.133
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:25.279
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:25.562
+!MESSAGE begin problem for /SpringBootBatchIntegrationTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:25.562
+!MESSAGE 0 problems reported for /SpringBootBatchIntegrationTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:25.572
+!MESSAGE begin problem for /JobListener.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:25.572
+!MESSAGE 0 problems reported for /JobListener.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:25.592
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:25.599
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:25.599
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:25.608
+!MESSAGE begin problem for /EmployeeRepository.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:25.608
+!MESSAGE 0 problems reported for /EmployeeRepository.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:25.617
+!MESSAGE begin problem for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:25.617
+!MESSAGE 0 problems reported for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:25.635
+!MESSAGE begin problem for /JobConfiguration.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:25.635
+!MESSAGE 0 problems reported for /JobConfiguration.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:25.658
+!MESSAGE begin problem for /JobController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:25.659
+!MESSAGE 0 problems reported for /JobController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:25.667
+!MESSAGE begin problem for /EmployeeItemProcessor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:25.668
+!MESSAGE 0 problems reported for /EmployeeItemProcessor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:25.668
+!MESSAGE Validated 8. Took 181 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:25.776
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:25.786
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:25.857
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:26.052
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:26.053
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:26.193
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:26.282
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:26.483
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:26.483
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:26.671
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:26.722
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:26.851
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:26.852
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:26.940
+!MESSAGE Reconciled 0. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:26.973
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:27.413
+!MESSAGE begin problem for /SpringBootBatchIntegrationTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:27.413
+!MESSAGE 0 problems reported for /SpringBootBatchIntegrationTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:27.423
+!MESSAGE begin problem for /JobListener.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:27.423
+!MESSAGE 0 problems reported for /JobListener.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:27.427
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:27.428
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:27.581
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:27.651
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:27.832
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:27.832
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:27.847
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:27.883
+!MESSAGE Reconciled 0. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:27.916
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:28.177
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:28.212
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:28.219
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:28.360
+!MESSAGE begin problem for /SpringBootBatchIntegrationTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:28.360
+!MESSAGE 0 problems reported for /SpringBootBatchIntegrationTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:28.371
+!MESSAGE begin problem for /JobListener.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:28.372
+!MESSAGE 0 problems reported for /JobListener.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:28.377
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:28.399
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:28.399
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:28.409
+!MESSAGE begin problem for /EmployeeRepository.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:28.409
+!MESSAGE 0 problems reported for /EmployeeRepository.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:28.418
+!MESSAGE begin problem for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:28.418
+!MESSAGE 0 problems reported for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:28.439
+!MESSAGE begin problem for /JobConfiguration.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:28.439
+!MESSAGE 0 problems reported for /JobConfiguration.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:28.470
+!MESSAGE begin problem for /JobController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:28.470
+!MESSAGE 0 problems reported for /JobController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:28.480
+!MESSAGE begin problem for /EmployeeItemProcessor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:28.480
+!MESSAGE 0 problems reported for /EmployeeItemProcessor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:28.480
+!MESSAGE Validated 8. Took 196 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:28.812
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:28.895
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:29.772
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:29.779
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:30.645
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:30.647
+!MESSAGE >> workspace/executeCommand java.project.list
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:30.648
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:30.650
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:30.651
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:30.654
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:31.945
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:31.981
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:32.151
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:32.594
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:33.171
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:33.222
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:34.272
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:34.322
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:34.652
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:34.706
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:35.171
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:35.172
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:36.041
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:36.301
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:36.551
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:37.312
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:37.365
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:37.833
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:37.898
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:39.281
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:40.032
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:40.202
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:40.261
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:40.557
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:40.559
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:40.561
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:40.568
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:40.743
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:40.746
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:40.796
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:40.963
+!MESSAGE Reconciled 0. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:40.986
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:40.987
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2022-01-27 12:02:41.011
+!MESSAGE 
+!STACK 0
+org.eclipse.jface.text.BadLocationException
+	at org.eclipse.jface.text.TreeLineTracker.fail(TreeLineTracker.java:1054)
+	at org.eclipse.jface.text.TreeLineTracker.lineByOffset(TreeLineTracker.java:268)
+	at org.eclipse.jface.text.TreeLineTracker.getLineNumberOfOffset(TreeLineTracker.java:1122)
+	at org.eclipse.jface.text.AbstractLineTracker.getLineNumberOfOffset(AbstractLineTracker.java:155)
+	at org.eclipse.jface.text.AbstractDocument.getLineOfOffset(AbstractDocument.java:871)
+	at org.eclipse.core.internal.filebuffers.SynchronizableDocument.getLineOfOffset(SynchronizableDocument.java:334)
+	at org.eclipse.jdt.ls.core.internal.handlers.JsonRpcHelpers.toLine(JsonRpcHelpers.java:83)
+	at org.eclipse.jdt.ls.core.internal.handlers.JsonRpcHelpers.toLine(JsonRpcHelpers.java:71)
+	at org.eclipse.jdt.ls.core.internal.JDTUtils.toRange(JDTUtils.java:563)
+	at org.eclipse.jdt.ls.core.internal.TextEditConverter.visit(TextEditConverter.java:137)
+	at org.eclipse.text.edits.MultiTextEdit.accept0(MultiTextEdit.java:146)
+	at org.eclipse.text.edits.TextEdit.accept(TextEdit.java:641)
+	at org.eclipse.jdt.ls.core.internal.TextEditConverter.convert(TextEditConverter.java:61)
+	at org.eclipse.jdt.ls.core.internal.text.correction.SourceAssistProcessor.convertToWorkspaceEdit(SourceAssistProcessor.java:381)
+	at org.eclipse.jdt.ls.core.internal.text.correction.SourceAssistProcessor.convertToWorkspaceEditAction(SourceAssistProcessor.java:346)
+	at org.eclipse.jdt.ls.core.internal.text.correction.SourceAssistProcessor.getGetterSetterAction(SourceAssistProcessor.java:216)
+	at org.eclipse.jdt.ls.core.internal.text.correction.SourceAssistProcessor.getSourceActionCommands(SourceAssistProcessor.java:112)
+	at org.eclipse.jdt.ls.core.internal.handlers.CodeActionHandler.getCodeActionCommands(CodeActionHandler.java:144)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$14(JDTLanguageServer.java:605)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$45(JDTLanguageServer.java:936)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2022-01-27 12:02:41.013
+!MESSAGE 
+!STACK 0
+org.eclipse.jface.text.BadLocationException
+	at org.eclipse.jface.text.TreeLineTracker.fail(TreeLineTracker.java:1054)
+	at org.eclipse.jface.text.TreeLineTracker.lineByOffset(TreeLineTracker.java:268)
+	at org.eclipse.jface.text.TreeLineTracker.getLineNumberOfOffset(TreeLineTracker.java:1122)
+	at org.eclipse.jface.text.AbstractLineTracker.getLineNumberOfOffset(AbstractLineTracker.java:155)
+	at org.eclipse.jface.text.AbstractDocument.getLineOfOffset(AbstractDocument.java:871)
+	at org.eclipse.core.internal.filebuffers.SynchronizableDocument.getLineOfOffset(SynchronizableDocument.java:334)
+	at org.eclipse.jdt.ls.core.internal.handlers.JsonRpcHelpers.toLine(JsonRpcHelpers.java:83)
+	at org.eclipse.jdt.ls.core.internal.handlers.JsonRpcHelpers.toLine(JsonRpcHelpers.java:71)
+	at org.eclipse.jdt.ls.core.internal.JDTUtils.toRange(JDTUtils.java:564)
+	at org.eclipse.jdt.ls.core.internal.TextEditConverter.visit(TextEditConverter.java:137)
+	at org.eclipse.text.edits.MultiTextEdit.accept0(MultiTextEdit.java:146)
+	at org.eclipse.text.edits.TextEdit.accept(TextEdit.java:641)
+	at org.eclipse.jdt.ls.core.internal.TextEditConverter.convert(TextEditConverter.java:61)
+	at org.eclipse.jdt.ls.core.internal.text.correction.SourceAssistProcessor.convertToWorkspaceEdit(SourceAssistProcessor.java:381)
+	at org.eclipse.jdt.ls.core.internal.text.correction.SourceAssistProcessor.convertToWorkspaceEditAction(SourceAssistProcessor.java:346)
+	at org.eclipse.jdt.ls.core.internal.text.correction.SourceAssistProcessor.getGetterSetterAction(SourceAssistProcessor.java:216)
+	at org.eclipse.jdt.ls.core.internal.text.correction.SourceAssistProcessor.getSourceActionCommands(SourceAssistProcessor.java:112)
+	at org.eclipse.jdt.ls.core.internal.handlers.CodeActionHandler.getCodeActionCommands(CodeActionHandler.java:144)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$14(JDTLanguageServer.java:605)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$45(JDTLanguageServer.java:936)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2022-01-27 12:02:41.014
+!MESSAGE Error converting TextEdits
+!STACK 0
+org.eclipse.text.edits.MalformedTreeException: End position lies outside document range
+	at org.eclipse.text.edits.TextEditProcessor.checkIntegrityDo(TextEditProcessor.java:180)
+	at org.eclipse.text.edits.TextEdit.dispatchCheckIntegrity(TextEdit.java:746)
+	at org.eclipse.text.edits.TextEditProcessor.performEdits(TextEditProcessor.java:153)
+	at org.eclipse.text.edits.TextEdit.apply(TextEdit.java:714)
+	at org.eclipse.jdt.ls.core.internal.TextEditConverter.visit(TextEditConverter.java:139)
+	at org.eclipse.text.edits.MultiTextEdit.accept0(MultiTextEdit.java:146)
+	at org.eclipse.text.edits.TextEdit.accept(TextEdit.java:641)
+	at org.eclipse.jdt.ls.core.internal.TextEditConverter.convert(TextEditConverter.java:61)
+	at org.eclipse.jdt.ls.core.internal.text.correction.SourceAssistProcessor.convertToWorkspaceEdit(SourceAssistProcessor.java:381)
+	at org.eclipse.jdt.ls.core.internal.text.correction.SourceAssistProcessor.convertToWorkspaceEditAction(SourceAssistProcessor.java:346)
+	at org.eclipse.jdt.ls.core.internal.text.correction.SourceAssistProcessor.getGetterSetterAction(SourceAssistProcessor.java:216)
+	at org.eclipse.jdt.ls.core.internal.text.correction.SourceAssistProcessor.getSourceActionCommands(SourceAssistProcessor.java:112)
+	at org.eclipse.jdt.ls.core.internal.handlers.CodeActionHandler.getCodeActionCommands(CodeActionHandler.java:144)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$14(JDTLanguageServer.java:605)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$45(JDTLanguageServer.java:936)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:478)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:41.052
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:41.513
+!MESSAGE begin problem for /SpringBootBatchIntegrationTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:41.513
+!MESSAGE 0 problems reported for /SpringBootBatchIntegrationTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:41.522
+!MESSAGE begin problem for /JobListener.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:41.523
+!MESSAGE 0 problems reported for /JobListener.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:41.547
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:41.547
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:41.554
+!MESSAGE begin problem for /EmployeeRepository.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:41.554
+!MESSAGE 0 problems reported for /EmployeeRepository.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:41.564
+!MESSAGE begin problem for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:41.564
+!MESSAGE 0 problems reported for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:41.584
+!MESSAGE begin problem for /JobConfiguration.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:41.584
+!MESSAGE 0 problems reported for /JobConfiguration.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:41.608
+!MESSAGE begin problem for /JobController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:41.608
+!MESSAGE 0 problems reported for /JobController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:41.612
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:41.619
+!MESSAGE begin problem for /EmployeeItemProcessor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:41.619
+!MESSAGE 0 problems reported for /EmployeeItemProcessor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:41.619
+!MESSAGE Validated 8. Took 205 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:41.966
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:41.991
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:42.172
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:42.172
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:42.356
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:42.452
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:42.556
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:42.557
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:42.629
+!MESSAGE Reconciled 0. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:42.629
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:43.091
+!MESSAGE begin problem for /SpringBootBatchIntegrationTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:43.091
+!MESSAGE 0 problems reported for /SpringBootBatchIntegrationTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:43.101
+!MESSAGE begin problem for /JobListener.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:43.101
+!MESSAGE 0 problems reported for /JobListener.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:43.125
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:43.125
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:43.132
+!MESSAGE begin problem for /EmployeeRepository.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:43.132
+!MESSAGE 0 problems reported for /EmployeeRepository.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:43.140
+!MESSAGE begin problem for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:43.140
+!MESSAGE 0 problems reported for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:43.157
+!MESSAGE begin problem for /JobConfiguration.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:43.157
+!MESSAGE 0 problems reported for /JobConfiguration.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:43.180
+!MESSAGE begin problem for /JobController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:43.180
+!MESSAGE 0 problems reported for /JobController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:43.187
+!MESSAGE begin problem for /EmployeeItemProcessor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:43.188
+!MESSAGE 0 problems reported for /EmployeeItemProcessor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:43.188
+!MESSAGE Validated 8. Took 158 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:43.201
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:43.484
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:43.556
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:43.592
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:43.606
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:43.872
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:43.902
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:44.121
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:45.146
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:45.652
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:45.654
+!MESSAGE >> workspace/executeCommand java.project.list
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:45.655
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:45.657
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:45.658
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:45.661
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:45.936
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:45.937
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:46.086
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:46.142
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:46.301
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:46.302
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:46.343
+!MESSAGE Reconciled 0. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:46.398
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:46.557
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:46.558
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:46.745
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:46.813
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:46.952
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:46.953
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:46.963
+!MESSAGE Reconciled 0. Took 5 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:47.025
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:47.483
+!MESSAGE begin problem for /SpringBootBatchIntegrationTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:47.483
+!MESSAGE 0 problems reported for /SpringBootBatchIntegrationTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:47.495
+!MESSAGE begin problem for /JobListener.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:47.495
+!MESSAGE 0 problems reported for /JobListener.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:47.512
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:47.521
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:47.521
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:47.529
+!MESSAGE begin problem for /EmployeeRepository.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:47.529
+!MESSAGE 0 problems reported for /EmployeeRepository.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:47.538
+!MESSAGE begin problem for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:47.538
+!MESSAGE 0 problems reported for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:47.558
+!MESSAGE begin problem for /JobConfiguration.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:47.558
+!MESSAGE 0 problems reported for /JobConfiguration.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:47.582
+!MESSAGE begin problem for /JobController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:47.582
+!MESSAGE 0 problems reported for /JobController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:47.591
+!MESSAGE begin problem for /EmployeeItemProcessor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:47.591
+!MESSAGE 0 problems reported for /EmployeeItemProcessor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:47.591
+!MESSAGE Validated 8. Took 178 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:47.972
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:48.114
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:49.862
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:49.865
+!MESSAGE >> workspace/executeCommand java.project.list
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:49.866
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:49.868
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:49.869
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:49.872
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:51.215
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:51.251
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:51.441
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:52.416
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:52.462
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:53.422
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:53.512
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:53.692
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:53.693
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:53.756
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:54.472
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:54.474
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:54.642
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:54.716
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:54.853
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:54.856
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:54.884
+!MESSAGE Reconciled 0. Took 10 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:54.952
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:55.397
+!MESSAGE begin problem for /SpringBootBatchIntegrationTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:55.397
+!MESSAGE 0 problems reported for /SpringBootBatchIntegrationTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:55.406
+!MESSAGE begin problem for /JobListener.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:55.406
+!MESSAGE 0 problems reported for /JobListener.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:55.429
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:55.429
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:55.436
+!MESSAGE begin problem for /EmployeeRepository.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:55.436
+!MESSAGE 0 problems reported for /EmployeeRepository.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:55.445
+!MESSAGE begin problem for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:55.445
+!MESSAGE 0 problems reported for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:55.456
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:55.465
+!MESSAGE begin problem for /JobConfiguration.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:55.465
+!MESSAGE 0 problems reported for /JobConfiguration.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:55.489
+!MESSAGE begin problem for /JobController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:55.489
+!MESSAGE 0 problems reported for /JobController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:55.498
+!MESSAGE begin problem for /EmployeeItemProcessor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:55.498
+!MESSAGE 0 problems reported for /EmployeeItemProcessor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:55.498
+!MESSAGE Validated 8. Took 164 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:55.852
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:55.905
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:57.496
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:57.531
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:57.656
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:57.658
+!MESSAGE >> workspace/executeCommand java.project.list
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:57.659
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:57.660
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:57.661
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:57.664
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:57.731
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:58.311
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:58.781
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:02:58.835
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:01.632
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:02.862
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:02.923
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:03.326
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:03.483
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:03.484
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:03.561
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:04.237
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:04.238
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:04.431
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:04.506
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:04.646
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:04.647
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:04.697
+!MESSAGE Reconciled 0. Took 9 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:04.733
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:05.214
+!MESSAGE begin problem for /SpringBootBatchIntegrationTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:05.215
+!MESSAGE 0 problems reported for /SpringBootBatchIntegrationTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:05.226
+!MESSAGE begin problem for /JobListener.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:05.226
+!MESSAGE 0 problems reported for /JobListener.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:05.251
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:05.251
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:05.255
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:05.261
+!MESSAGE begin problem for /EmployeeRepository.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:05.261
+!MESSAGE 0 problems reported for /EmployeeRepository.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:05.303
+!MESSAGE begin problem for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:05.303
+!MESSAGE 0 problems reported for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:05.321
+!MESSAGE begin problem for /JobConfiguration.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:05.321
+!MESSAGE 0 problems reported for /JobConfiguration.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:05.346
+!MESSAGE begin problem for /JobController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:05.347
+!MESSAGE 0 problems reported for /JobController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:05.356
+!MESSAGE begin problem for /EmployeeItemProcessor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:05.356
+!MESSAGE 0 problems reported for /EmployeeItemProcessor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:05.356
+!MESSAGE Validated 8. Took 209 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:05.452
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:05.454
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:05.692
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:05.946
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:06.011
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:06.061
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:06.511
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:06.563
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:07.696
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:07.698
+!MESSAGE >> workspace/executeCommand java.project.list
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:07.699
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:07.700
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:07.702
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:07.705
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:07.791
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:07.853
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:08.352
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:08.621
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:09.301
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:09.358
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:10.781
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:10.782
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:10.941
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:10.942
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:11.201
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:11.202
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:11.341
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:11.342
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:11.522
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:11.591
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:11.741
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:11.744
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:11.749
+!MESSAGE Reconciled 0. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:11.785
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:11.845
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:11.853
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:12.222
+!MESSAGE begin problem for /SpringBootBatchIntegrationTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:12.223
+!MESSAGE 0 problems reported for /SpringBootBatchIntegrationTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:12.234
+!MESSAGE begin problem for /JobListener.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:12.234
+!MESSAGE 0 problems reported for /JobListener.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:12.269
+!MESSAGE begin problem for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:12.269
+!MESSAGE 2 problems reported for /HelloController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:12.321
+!MESSAGE begin problem for /EmployeeRepository.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:12.321
+!MESSAGE 0 problems reported for /EmployeeRepository.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:12.333
+!MESSAGE begin problem for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:12.333
+!MESSAGE 0 problems reported for /Employee.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:12.361
+!MESSAGE begin problem for /JobConfiguration.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:12.361
+!MESSAGE 0 problems reported for /JobConfiguration.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:12.371
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:12.397
+!MESSAGE begin problem for /JobController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:12.397
+!MESSAGE 0 problems reported for /JobController.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:12.406
+!MESSAGE begin problem for /EmployeeItemProcessor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:12.406
+!MESSAGE 0 problems reported for /EmployeeItemProcessor.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:12.406
+!MESSAGE Validated 8. Took 255 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:12.672
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:12.912
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:12.922
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:13.171
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:14.672
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:14.674
+!MESSAGE >> workspace/executeCommand java.project.list
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:14.675
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:14.676
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:14.678
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:14.680
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:23.441
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:23.495
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:39.831
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:39.833
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:47.123
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:47.125
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:03:50.523
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:13:35.999
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:13:36.001
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:14:24.186
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 12:16:14.161
+!MESSAGE >> workspace/executeCommand java.resolvePath
+!SESSION 2022-01-27 13:47:14.583 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.13
+java.vendor=Debian
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/gcpthree3/.theia/workspace-storage/d5cabdaf729342ba31ee4b77381b5438/redhat.java/jdt_ws
+
+!ENTRY org.eclipse.core.resources 2 10035 2022-01-27 13:47:16.743
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:19.521
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:19.853
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:19.897
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:19.899
+!MESSAGE Initializing Java Language Server 0.48.0.201912051608
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:19.919
+!MESSAGE Installed reference:file:/google/devshell/editor/theia/plugins/vscode-java-debug/extension/server/com.microsoft.java.debug.plugin-0.24.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:19.924
+!MESSAGE Installed reference:file:/google/devshell/editor/theia/plugins/vscode-java-dependency-viewer/extension/server/com.microsoft.jdtls.ext.core-0.6.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:19.933
+!MESSAGE Installed reference:file:/google/devshell/editor/theia/plugins/vscode-java-test/extension/server/com.microsoft.java.test.plugin-0.22.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:19.938
+!MESSAGE Installed reference:file:/google/devshell/editor/theia/plugins/vscode-java-test/extension/server/org.eclipse.jdt.junit4.runtime_1.1.1000.v20190510-0840.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:19.942
+!MESSAGE Installed reference:file:/google/devshell/editor/theia/plugins/vscode-java-test/extension/server/org.eclipse.jdt.junit5.runtime_1.0.500.v20190510-0840.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:19.946
+!MESSAGE Installed reference:file:/google/devshell/editor/theia/plugins/vscode-java-test/extension/server/org.junit.jupiter.api_5.4.0.v20190212-2109.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:19.951
+!MESSAGE Installed reference:file:/google/devshell/editor/theia/plugins/vscode-java-test/extension/server/org.junit.jupiter.engine_5.4.0.v20190212-2109.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:19.956
+!MESSAGE Installed reference:file:/google/devshell/editor/theia/plugins/vscode-java-test/extension/server/org.junit.jupiter.migrationsupport_5.4.0.v20190212-2109.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:19.968
+!MESSAGE Installed reference:file:/google/devshell/editor/theia/plugins/vscode-java-test/extension/server/org.junit.jupiter.params_5.4.0.v20190212-2109.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:19.973
+!MESSAGE Installed reference:file:/google/devshell/editor/theia/plugins/vscode-java-test/extension/server/org.junit.vintage.engine_5.4.0.v20190212-2109.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:19.980
+!MESSAGE Installed reference:file:/google/devshell/editor/theia/plugins/vscode-java-test/extension/server/org.opentest4j_1.1.1.v20190212-2109.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:19.985
+!MESSAGE Installed reference:file:/google/devshell/editor/theia/plugins/vscode-java-test/extension/server/org.junit.platform.commons_1.4.0.v20190212-2109.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:19.992
+!MESSAGE Installed reference:file:/google/devshell/editor/theia/plugins/vscode-java-test/extension/server/org.junit.platform.engine_1.4.0.v20190212-2109.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:19.999
+!MESSAGE Installed reference:file:/google/devshell/editor/theia/plugins/vscode-java-test/extension/server/org.junit.platform.launcher_1.4.0.v20190212-2109.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:20.006
+!MESSAGE Installed reference:file:/google/devshell/editor/theia/plugins/vscode-java-test/extension/server/org.junit.platform.runner_1.4.0.v20190212-2109.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:20.012
+!MESSAGE Installed reference:file:/google/devshell/editor/theia/plugins/vscode-java-test/extension/server/org.junit.platform.suite.api_1.4.0.v20190212-2109.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:20.015
+!MESSAGE Installed reference:file:/google/devshell/editor/theia/plugins/vscode-java-test/extension/server/org.apiguardian_1.0.0.v20190212-2109.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:20.021
+!MESSAGE Installed reference:file:/google/devshell/editor/theia/plugins/vscode-maven/extension/jdtls.ext/com.microsoft.java.maven.plugin/target/com.microsoft.java.maven.plugin-0.21.4.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:20.090
+!MESSAGE Started reference:file:/google/devshell/editor/theia/plugins/vscode-java-test/extension/server/org.junit.jupiter.params_5.4.0.v20190212-2109.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:20.091
+!MESSAGE Started reference:file:/google/devshell/editor/theia/plugins/vscode-java-test/extension/server/org.junit.jupiter.engine_5.4.0.v20190212-2109.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:20.091
+!MESSAGE Started reference:file:/google/devshell/editor/theia/plugins/vscode-java-test/extension/server/org.opentest4j_1.1.1.v20190212-2109.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:20.092
+!MESSAGE Started reference:file:/google/devshell/editor/theia/plugins/vscode-java-test/extension/server/org.junit.platform.launcher_1.4.0.v20190212-2109.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:20.092
+!MESSAGE Started reference:file:/google/devshell/editor/theia/plugins/vscode-java-test/extension/server/org.junit.platform.commons_1.4.0.v20190212-2109.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:20.093
+!MESSAGE Started reference:file:/google/devshell/editor/theia/plugins/vscode-java-test/extension/server/org.junit.platform.suite.api_1.4.0.v20190212-2109.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:20.093
+!MESSAGE Started reference:file:/google/devshell/editor/theia/plugins/vscode-java-test/extension/server/org.junit.platform.engine_1.4.0.v20190212-2109.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:20.094
+!MESSAGE Started reference:file:/google/devshell/editor/theia/plugins/vscode-java-test/extension/server/org.junit.jupiter.migrationsupport_5.4.0.v20190212-2109.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:20.094
+!MESSAGE Started reference:file:/google/devshell/editor/theia/plugins/vscode-java-test/extension/server/org.junit.platform.runner_1.4.0.v20190212-2109.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:20.095
+!MESSAGE Started reference:file:/google/devshell/editor/theia/plugins/vscode-java-test/extension/server/org.junit.vintage.engine_5.4.0.v20190212-2109.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:20.095
+!MESSAGE Started reference:file:/google/devshell/editor/theia/plugins/vscode-java-test/extension/server/org.eclipse.jdt.junit5.runtime_1.0.500.v20190510-0840.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:20.096
+!MESSAGE Started reference:file:/google/devshell/editor/theia/plugins/vscode-java-dependency-viewer/extension/server/com.microsoft.jdtls.ext.core-0.6.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:20.096
+!MESSAGE Started reference:file:/google/devshell/editor/theia/plugins/vscode-java-test/extension/server/org.eclipse.jdt.junit4.runtime_1.1.1000.v20190510-0840.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:20.097
+!MESSAGE Started reference:file:/google/devshell/editor/theia/plugins/vscode-java-test/extension/server/com.microsoft.java.test.plugin-0.22.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:20.099
+!MESSAGE Started reference:file:/google/devshell/editor/theia/plugins/vscode-maven/extension/jdtls.ext/com.microsoft.java.maven.plugin/target/com.microsoft.java.maven.plugin-0.21.4.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:20.100
+!MESSAGE Started reference:file:/google/devshell/editor/theia/plugins/vscode-java-test/extension/server/org.junit.jupiter.api_5.4.0.v20190212-2109.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:20.101
+!MESSAGE Started reference:file:/google/devshell/editor/theia/plugins/vscode-java-test/extension/server/org.apiguardian_1.0.0.v20190212-2109.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:20.101
+!MESSAGE Started reference:file:/google/devshell/editor/theia/plugins/vscode-java-debug/extension/server/com.microsoft.java.debug.plugin-0.24.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:20.111
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:20.111
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.updateSourceAttachment, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:20.138
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:20.248
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:20.249
+!MESSAGE Non-Static Commands: [java.maven.initializeSearcher, java.maven.searchArtifact, java.maven.addDependency, java.maven.controlContext]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:20.257
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:20.257
+!MESSAGE Non-Static Commands: [vscode.java.test.search.codelens, vscode.java.test.search.items.all, vscode.java.test.search.location, vscode.java.test.search.items, vscode.java.test.get.testpath, vscode.java.test.junit.argument]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:20.275
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:20.276
+!MESSAGE Non-Static Commands: [java.project.list, java.getPackageData, java.resolvePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:20.341
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:20.341
+!MESSAGE Non-Static Commands: [vscode.java.checkProjectSettings, vscode.java.isOnClasspath, vscode.java.fetchUsageData, vscode.java.validateLaunchConfig, vscode.java.resolveMainMethod, vscode.java.resolveClasspath, vscode.java.resolveBuildFiles, vscode.java.resolveMainClass, vscode.java.updateDebugSettings, vscode.java.buildWorkspace, vscode.java.startDebugSession, vscode.java.inferLaunchCommandLength, vscode.java.resolveElementAtSelection]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:22.045
+!MESSAGE Importing Maven project(s)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:22.272
+!MESSAGE Workspace initialized in 2156ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:22.348
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:22.362
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:22.387
+!MESSAGE >>New configuration: {java={debug={logLevel=warn, settings={showHex=false, showStaticVariables=false, showQualifiedNames=false, showLogicalStructure=true, showToString=true, maxStringLength=0.0, hotCodeReplace=manual, enableRunDebugCodeLens=true, forceBuildBeforeLaunch=true, console=integratedTerminal}}, dependency={showOutline=true, syncWithFolderExplorer=true, autoRefresh=true, refreshDelay=2000.0, packagePresentation=flat}, home=/usr/lib/jvm/java-11-openjdk-amd64, jdt={ls={vmargs=-noverify -Xmx1G -XX:+UseG1GC -XX:+UseStringDeduplication}}, errors={incompleteClasspath={severity=warning}}, configuration={checkProjectSettingsExclusions=true, updateBuildConfiguration=interactive, maven={userSettings=null}}, trace={server=off}, import={maven={enabled=true}, gradle={enabled=true, wrapper={enabled=true}, version=null, arguments=null, jvmArguments=null, home=null}, exclusions=[**/node_modules/**, **/.metadata/**, **/archetype-resources/**, **/META-INF/maven/**]}, maven={downloadSources=false, updateSnapshots=false}, referencesCodeLens={enabled=false}, signatureHelp={enabled=false}, implementationsCodeLens={enabled=false}, format={enabled=true, settings={url=null, profile=null}, comments={enabled=true}, onType={enabled=true}}, saveActions={organizeImports=false}, contentProvider={preferred=null}, autobuild={enabled=true}, maxConcurrentBuilds=1.0, completion={enabled=true, overwrite=true, guessMethodArguments=false, favoriteStaticMembers=[org.junit.Assert.*, org.junit.Assume.*, org.junit.jupiter.api.Assertions.*, org.junit.jupiter.api.Assumptions.*, org.junit.jupiter.api.DynamicContainer.*, org.junit.jupiter.api.DynamicTest.*, org.mockito.Mockito.*, org.mockito.ArgumentMatchers.*, org.mockito.Answers.*], filteredTypes=[java.awt.*, com.sun.*], importOrder=[java, javax, com, org]}, foldingRange={enabled=true}, progressReports={enabled=true}, codeGeneration={hashCodeEquals={useJava7Objects=false, useInstanceof=false}, useBlocks=false, generateComments=false, toString={template=${object.className} [${member.name()}=${member.value}, ${otherMembers}], codeStyle=STRING_CONCATENATION, skipNullValues=false, listArrayContents=true, limitElements=0.0}}, selectionRange={enabled=true}, showBuildStatusOnStart={enabled=false}, test={report={showAfterExecution=onFailure, position=sideView}, editor={enableShortcuts=true}, log={level=info}, message={hintForDeprecatedConfig=true, hintForSetingDefaultConfig=true}, defaultConfig=, config={}}}}
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:22.389
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:23.218
+!MESSAGE Classpath is incomplete. Only syntax errors will be reported for file:///home/gcpthree3/Assignment-2-cloudrun-cloudsql-cloudstorage/src/test/java/com/spring/batch/SpringBootBatchIntegrationTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:23.358
+!MESSAGE >> workspace/executeCommand vscode.java.test.get.testpath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:23.375
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:23.392
+!MESSAGE >> workspace/executeCommand java.maven.initializeSearcher
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:23.395
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:23.398
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:23.402
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY java-debug 1 0 2022-01-27 13:47:23.415
+!MESSAGE Starting com.microsoft.java.debug.plugin
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:25.635
+!MESSAGE Reconciled 0. Took 32 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:26.113
+!MESSAGE begin problem for /SpringBootBatchIntegrationTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:26.113
+!MESSAGE 0 problems reported for /SpringBootBatchIntegrationTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:26.119
+!MESSAGE Validated 1. Took 33 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:30.549
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:30.647
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:30.649
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:30.658
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:31.997
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:34.082
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:34.393
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:39.939
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:40.432
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:45.048
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:47:53.664
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:48:49.490
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:49:13.646
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:49:13.655
+!MESSAGE >> workspace/executeCommand java.project.list
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:49:13.659
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:49:13.670
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:49:13.675
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:49:13.686
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:49:13.703
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:49:16.190
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:49:16.192
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:49:16.195
+!MESSAGE Clearing problems for /SpringBootBatchIntegrationTest.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:49:17.804
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2022-01-27 13:49:41.511
+!MESSAGE >> workspace/executeCommand java.resolvePath

@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jan 27 15:33:20 UTC 2022
+spring-batch-postgres-0.1-SNAPSHOT.jar>=
+spring-batch-postgres-0.1-SNAPSHOT.pom>=
